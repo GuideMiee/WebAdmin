@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+*{
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item{
+    height: 600px;
+}
+.carousel-image-1{
+    background-image: url(https://images.pexels.com/photos/806006/pexels-photo-806006.jpeg?cs=srgb&dl=black-background-nike-shoes-806006.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+}
+.carousel-image-2{
+    background-image: url(https://th.bing.com/th/id/R.7d5e62dd970fa1d01757a3bceff7f234?rik=F9UO5owLAgBrOQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fLmB7qAf.jpg&ehk=IN2%2bAo5eJlqYEqh3KAJPCUBZGWThNqyiS3jCSikglNM%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.carousel-image-3{
+    background-image: url(https://th.bing.com/th/id/R.74800bc8d03322a97756a04c9100997a?rik=F83FlKmJmo%2bcrA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f19lHWav.jpg&ehk=w59djiBxOdfGvBqGKEuSkObGkWpQ0inbfn%2fvsGSYWqg%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.text-center{
+    padding-top:  50px;
+}
+img{
+    aspect-ratio: 16/9;
+    width: 300px;
+    height: 200px;
+}
+section.footer{
+    background-color: rgb(201, 201, 201);
+    margin-top: 50px;
+}
+section.footer p{
+    font-size: 1rem;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 0rem;
+}
+.form-login{
+    width: 100%;
+    max-width: 600px;
+    padding: 12px;
+    margin: auto;
+}
+h1.display-1{
+    background-color: rgba(0, 0, 0, 0.313);
+padding-bottom: 26rem;
+}
+.form-group{
+    width: 100%;
+    font-size: 21px;
+}
